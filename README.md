@@ -89,4 +89,4 @@ This helps identify the most profitable products.
 ✅ **Overall Benefit:**
 The dashboard enables stakeholders to **monitor performance, identify trends, and make strategic business decisions using real-time visual insights.**
 
-### **Screenshot :https://github.com/bpranam/Store-Sales-Dashboard/blob/main/final.png**
+### **Screenshot :https://github.com/bpranam/FUTURE_DS_TASK1/blob/main/sales.jpg**
